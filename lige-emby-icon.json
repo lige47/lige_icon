@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260520",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260522",
   "icons": [
     {
       "name": "emby",
@@ -1093,6 +1093,10 @@
     {
       "name": "nomaba-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/nomaba-emby.png"
+    },
+    {
+      "name": "nox-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/nox-emby.png"
     },
     {
       "name": "Nqm-emby",
