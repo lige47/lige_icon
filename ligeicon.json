@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260523",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260527",
   "icons": [
     {
       "name": "lige",
@@ -2421,6 +2421,18 @@
     {
       "name": "rocket(3)",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/rocket(3).png"
+    },
+    {
+      "name": "rocket(4)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/rocket(4).png"
+    },
+    {
+      "name": "rocket(5)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/rocket(5).png"
+    },
+    {
+      "name": "rocket(6)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/rocket(6).png"
     },
     {
       "name": "rocket",
