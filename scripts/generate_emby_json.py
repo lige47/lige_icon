@@ -12,8 +12,8 @@ BASE_URL = "https://raw.githubusercontent.com/lige47/QuanX-icon-rule/main/"
 # 固定顺序列表 (这些图标可能被你移动到了某个子文件夹里)
 FIXED_ICONS = [
     "emby", "chinamobilemcloud", "189", "chinaunicomcloud", "123", "115", 
-    "quark", "alicloud", "alidrive", "baidunetdisk", "baidunetdisk(1)", 
-    "pikpak", "pCloud", "jianguoyun", "OneDrive", "OneDrive(1)", 
+    "quark", "alicloud", "alidrive", "baidunetdisk", "baidunetdisk(1)", "guangya", "guangya(1)", 
+    "pikpak", "pCloud", "jianguoyun", "OneDrive", "OneDrive(1)",
     "alist", "alist(1)", "OpenList", "clouddrive2", "jellyfin", 
     "xiaohuanRodelPlayer", "senplayer","NAS", "NAS(1)", "NAS(2)", "qunhuiguanjia"
 ]
