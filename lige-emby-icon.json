@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260607",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260609",
   "icons": [
     {
       "name": "emby",
@@ -471,6 +471,10 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/EchoFlix-emby.png"
     },
     {
+      "name": "Echoflix-Music",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Echoflix-Music.png"
+    },
+    {
       "name": "EDGE(1)-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/EDGE(1)-emby.png"
     },
@@ -573,6 +577,10 @@
     {
       "name": "FunMedia-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/FunMedia-emby.png"
+    },
+    {
+      "name": "FutureEcho",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/FutureEcho.png"
     },
     {
       "name": "fworks(1)-emby",
@@ -1065,6 +1073,10 @@
     {
       "name": "Nanflix-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Nanflix-emby.png"
+    },
+    {
+      "name": "nangua",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/nangua.png"
     },
     {
       "name": "nayovo-emby",
