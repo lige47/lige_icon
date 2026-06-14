@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260611",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260614",
   "icons": [
     {
       "name": "lige",
@@ -2933,6 +2933,10 @@
     {
       "name": "luyuyun",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/luyuyun.png"
+    },
+    {
+      "name": "LyNvX",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/LyNvX.png"
     },
     {
       "name": "lzymtzpd",
