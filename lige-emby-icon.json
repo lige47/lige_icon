@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260611",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260614",
   "icons": [
     {
       "name": "emby",
@@ -245,6 +245,10 @@
     {
       "name": "awa_tv-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/awa_tv-emby.png"
+    },
+    {
+      "name": "aytplus-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/aytplus-emby.png"
     },
     {
       "name": "baicaicabbageTV-emby",
@@ -1829,6 +1833,10 @@
     {
       "name": "Youno-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Youno-emby.png"
+    },
+    {
+      "name": "Younoair-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Younoair-emby.png"
     },
     {
       "name": "YounoPlus-emby",
