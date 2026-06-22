@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260621",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260622",
   "icons": [
     {
       "name": "lige",
@@ -1359,6 +1359,10 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/arista.png"
     },
     {
+      "name": "backpack",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/backpack.png"
+    },
+    {
       "name": "bahamute",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/bahamute.png"
     },
@@ -1749,6 +1753,10 @@
     {
       "name": "kakaotalk",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/kakaotalk.png"
+    },
+    {
+      "name": "Kraken",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/Kraken.png"
     },
     {
       "name": "linkedin",
