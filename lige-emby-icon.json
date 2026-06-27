@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260626",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260627",
   "icons": [
     {
       "name": "emby",
@@ -1481,6 +1481,30 @@
     {
       "name": "shouhou(10)SNTP-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/shouhou(10)SNTP-emby.png"
+    },
+    {
+      "name": "shouhou(11)SNTP-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/shouhou(11)SNTP-emby.png"
+    },
+    {
+      "name": "shouhou(12)SNTP-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/shouhou(12)SNTP-emby.png"
+    },
+    {
+      "name": "shouhou(13)SNTP-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/shouhou(13)SNTP-emby.png"
+    },
+    {
+      "name": "shouhou(14)SNTP-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/shouhou(14)SNTP-emby.png"
+    },
+    {
+      "name": "shouhou(15)SNTP-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/shouhou(15)SNTP-emby.png"
+    },
+    {
+      "name": "shouhou(16)SNTP-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/shouhou(16)SNTP-emby.png"
     },
     {
       "name": "shouhou(2)",
