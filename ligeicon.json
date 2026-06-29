@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260628",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260629",
   "icons": [
     {
       "name": "lige",
@@ -2599,6 +2599,14 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/CherrynetWork2.png"
     },
     {
+      "name": "chuixueyun(1)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/chuixueyun(1).png"
+    },
+    {
+      "name": "chuixueyun",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/chuixueyun.png"
+    },
+    {
       "name": "ClashGOU",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/ClashGOU.png"
     },
@@ -3065,6 +3073,10 @@
     {
       "name": "nfsq",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/nfsq.png"
+    },
+    {
+      "name": "nianyun",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/nianyun.png"
     },
     {
       "name": "niceduck(1)",
