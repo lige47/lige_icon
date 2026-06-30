@@ -126,3 +126,6 @@ DOMAIN-SUFFIX,media-imdb.com
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,okx.com
+
+#机器人自动解析
+DOMAIN-SUFFIX,ikuuu.fyi
