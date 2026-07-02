@@ -129,6 +129,7 @@ DOMAIN-SUFFIX,okx.com
 
 #机器人自动解析
 DOMAIN-SUFFIX,302verify.com
+DOMAIN-SUFFIX,9dragonfly.com
 DOMAIN-SUFFIX,fatcatcf.com
 DOMAIN-SUFFIX,ikuuu.fyi
 DOMAIN-SUFFIX,ikuuu.win
@@ -138,6 +139,8 @@ DOMAIN-SUFFIX,luyuyun.com
 DOMAIN-SUFFIX,qingfengyun.xyz
 DOMAIN-SUFFIX,qytaff01.cc
 DOMAIN-SUFFIX,recmata.net
+DOMAIN-SUFFIX,suuwu.de
+DOMAIN-SUFFIX,threebrother.top
 DOMAIN-SUFFIX,tootooyun.vip
 DOMAIN-SUFFIX,wcc.best
 DOMAIN-SUFFIX,wd-gold.net
