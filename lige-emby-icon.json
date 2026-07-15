@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260714",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260715",
   "icons": [
     {
       "name": "emby",
@@ -795,6 +795,18 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/july-emby.png"
     },
     {
+      "name": "juying(1)-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/juying(1)-emby.png"
+    },
+    {
+      "name": "juying(2)-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/juying(2)-emby.png"
+    },
+    {
+      "name": "juying-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/juying-emby.png"
+    },
+    {
       "name": "KFCV50-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/KFCV50-emby.png"
     },
@@ -1473,6 +1485,14 @@
     {
       "name": "sfcj-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/sfcj-emby.png"
+    },
+    {
+      "name": "shayu(1)-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/shayu(1)-emby.png"
+    },
+    {
+      "name": "shayu-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/shayu-emby.png"
     },
     {
       "name": "shayugoyi-emby",
