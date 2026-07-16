@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260715",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260716",
   "icons": [
     {
       "name": "lige",
@@ -1441,6 +1441,10 @@
     {
       "name": "bybit",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/bybit.png"
+    },
+    {
+      "name": "CapitalOne",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/CapitalOne.png"
     },
     {
       "name": "chatgpt(1)",
