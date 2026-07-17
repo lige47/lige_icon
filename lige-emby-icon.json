@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260716",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260717",
   "icons": [
     {
       "name": "emby",
@@ -407,6 +407,10 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/denggao-Climbhigh-emby.png"
     },
     {
+      "name": "difu-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/difu-emby.png"
+    },
+    {
       "name": "DimLight-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/DimLight-emby.png"
     },
@@ -709,6 +713,10 @@
     {
       "name": "hongxingyun-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/hongxingyun-emby.png"
+    },
+    {
+      "name": "huachu-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/huachu-emby.png"
     },
     {
       "name": "hualu-emby",
