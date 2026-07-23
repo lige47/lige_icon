@@ -100,7 +100,7 @@
     },
     {
       "name": "senplayer",
-      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/senplayer.png"
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/03CNSoft\/senplayer.png"
     },
     {
       "name": "NAS",
@@ -405,6 +405,10 @@
     {
       "name": "denggao-Climbhigh-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/denggao-Climbhigh-emby.png"
+    },
+    {
+      "name": "difu(1)-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/difu(1)-emby.png"
     },
     {
       "name": "difu-emby",
