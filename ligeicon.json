@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260910",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260912",
   "icons": [
     {
       "name": "lige",
@@ -2703,6 +2703,10 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/bluetile.png"
     },
     {
+      "name": "boostnet",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/boostnet.png"
+    },
+    {
       "name": "btwcn",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/btwcn.png"
     },
@@ -2749,6 +2753,10 @@
     {
       "name": "congyuyun",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/congyuyun.png"
+    },
+    {
+      "name": "conyss",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/conyss.png"
     },
     {
       "name": "crush",
