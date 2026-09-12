@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,567741.xyz
 IP-CIDR,103.141.183.18/32,no-resolve
 
 #机器人自动解析
-DOMAIN-SUFFIX,5tencent.asia
 DOMAIN-SUFFIX,hljppj.com
 DOMAIN-SUFFIX,py258.com
 DOMAIN-SUFFIX,starfans.com
