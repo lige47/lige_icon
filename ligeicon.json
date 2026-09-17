@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260912",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260917",
   "icons": [
     {
       "name": "lige",
@@ -2391,6 +2391,14 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/direct.png"
     },
     {
+      "name": "fuzai(1)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/fuzai(1).png"
+    },
+    {
+      "name": "fuzai",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/fuzai.png"
+    },
+    {
       "name": "game(1)",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/game(1).png"
     },
@@ -2577,6 +2585,26 @@
     {
       "name": "rocket",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/rocket.png"
+    },
+    {
+      "name": "tianping(1)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/tianping(1).png"
+    },
+    {
+      "name": "tianping",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/tianping.png"
+    },
+    {
+      "name": "wangluo(1)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/wangluo(1).png"
+    },
+    {
+      "name": "wangluo(2)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/wangluo(2).png"
+    },
+    {
+      "name": "wangluo",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/wangluo.png"
     },
     {
       "name": "yu(1)",
