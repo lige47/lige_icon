@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260917",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260923",
   "icons": [
     {
       "name": "lige",
@@ -2389,6 +2389,14 @@
     {
       "name": "direct",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/direct.png"
+    },
+    {
+      "name": "doudi(1)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/doudi(1).png"
+    },
+    {
+      "name": "doudi",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/05icon\/doudi.png"
     },
     {
       "name": "fuzai(1)",
