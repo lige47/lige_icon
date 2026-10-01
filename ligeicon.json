@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260930",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261001",
   "icons": [
     {
       "name": "lige",
@@ -1903,6 +1903,10 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/longbridge.png"
     },
     {
+      "name": "Manus",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/Manus.png"
+    },
+    {
       "name": "max(1)",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/max(1).png"
     },
@@ -1929,6 +1933,10 @@
     {
       "name": "msx",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/msx.png"
+    },
+    {
+      "name": "Muse",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/Muse.png"
     },
     {
       "name": "N26",
