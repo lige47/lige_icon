@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为260930",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261001",
   "icons": [
     {
       "name": "emby",
@@ -293,6 +293,10 @@
     {
       "name": "baicaicabbageTV-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/baicaicabbageTV-emby.png"
+    },
+    {
+      "name": "baihuajuyuan-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/baihuajuyuan-emby.png"
     },
     {
       "name": "bangbangtang(1)-emby",
