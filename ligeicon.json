@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261006",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261007",
   "icons": [
     {
       "name": "lige",
@@ -2313,6 +2313,10 @@
     {
       "name": "V2ex",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/V2ex.png"
+    },
+    {
+      "name": "VMISS",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/VMISS.png"
     },
     {
       "name": "vsco",
