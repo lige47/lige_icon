@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261006",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261007",
   "icons": [
     {
       "name": "emby",
@@ -1853,6 +1853,10 @@
     {
       "name": "StarshoMedia-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/StarshoMedia-emby.png"
+    },
+    {
+      "name": "staryuki-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/staryuki-emby.png"
     },
     {
       "name": "Steven-emby",
