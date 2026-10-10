@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261009",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261010",
   "icons": [
     {
       "name": "lige",
@@ -2801,6 +2801,10 @@
     {
       "name": "bluetile",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/bluetile.png"
+    },
+    {
+      "name": "bonasilanyun",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/bonasilanyun.png"
     },
     {
       "name": "boostnet",
