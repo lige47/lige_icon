@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/lige47/lige_icon/main/scripts/wangluoxinxi.plu
 ## Star History
 
 <p align="center">
-  <a href="https://www.star-history.com/#lige47/QuanX-icon-rule&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lige47/lige_icon&type=Date" />
+  <a href="https://star-history.dera.page/#lige47/QuanX-icon-rule&Date">
+    <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=lige47/lige_icon&type=Date" />
   </a>
 </p>
