@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261013",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261015",
   "icons": [
     {
       "name": "lige",
@@ -3405,6 +3405,10 @@
     {
       "name": "NieRCloud2",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/NieRCloud2.png"
+    },
+    {
+      "name": "niva",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/niva.png"
     },
     {
       "name": "now(1)",
