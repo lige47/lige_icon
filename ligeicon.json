@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261018",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261019",
   "icons": [
     {
       "name": "lige",
@@ -3147,6 +3147,10 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/hongxingyun.png"
     },
     {
+      "name": "huihuyunnetworks",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/huihuyunnetworks.png"
+    },
+    {
       "name": "ikuuu",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/ikuuu.png"
     },
@@ -3333,6 +3337,10 @@
     {
       "name": "misakaF",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/misakaF.png"
+    },
+    {
+      "name": "mitce(1)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/mitce(1).png"
     },
     {
       "name": "mitce",
