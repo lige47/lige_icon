@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261022",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261024",
   "icons": [
     {
       "name": "lige",
@@ -377,6 +377,10 @@
     {
       "name": "Stash",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/02ProxySoftLogo\/Stash.png"
+    },
+    {
+      "name": "Surfboard",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/02ProxySoftLogo\/Surfboard.png"
     },
     {
       "name": "Surge(1)",
