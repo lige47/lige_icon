@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261022",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261024",
   "icons": [
     {
       "name": "emby",
@@ -1299,6 +1299,10 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Msky-emby.png"
     },
     {
+      "name": "nahanguai-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/nahanguai-emby.png"
+    },
+    {
       "name": "Nanflix(1)-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Nanflix(1)-emby.png"
     },
@@ -1475,12 +1479,12 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/own-emby.png"
     },
     {
-      "name": "pandaTV-emby",
-      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/pandaTV-emby.png"
-    },
-    {
       "name": "pandatv-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/pandatv-emby.png"
+    },
+    {
+      "name": "pandaTV-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/pandaTV-emby.png"
     },
     {
       "name": "pandaxiongmao-emby",
@@ -2085,6 +2089,10 @@
     {
       "name": "xingmuNookReel-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/xingmuNookReel-emby.png"
+    },
+    {
+      "name": "xingmunova-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/xingmunova-emby.png"
     },
     {
       "name": "xingyinng-Lanxuan-emby",
