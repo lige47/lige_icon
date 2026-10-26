@@ -1,6 +1,6 @@
 {
   "name": "离歌Emby专用",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261025",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261026",
   "icons": [
     {
       "name": "emby",
@@ -1095,6 +1095,10 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/losernotice-emby.png"
     },
     {
+      "name": "Lumen-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Lumen-emby.png"
+    },
+    {
       "name": "Lunaris(1)-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/Lunaris(1)-emby.png"
     },
@@ -1993,6 +1997,14 @@
     {
       "name": "tufeide-emby",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/tufeide-emby.png"
+    },
+    {
+      "name": "UHD(1)-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/UHD(1)-emby.png"
+    },
+    {
+      "name": "UHD(2)-emby",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/emby\/UHD(2)-emby.png"
     },
     {
       "name": "UHD-emby",
