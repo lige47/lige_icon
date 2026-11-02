@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261030",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261102",
   "icons": [
     {
       "name": "lige",
@@ -1929,6 +1929,10 @@
     {
       "name": "Kraken",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/Kraken.png"
+    },
+    {
+      "name": "LegendVPS",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/LegendVPS.png"
     },
     {
       "name": "linkedin",
