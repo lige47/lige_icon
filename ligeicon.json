@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261104",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261105",
   "icons": [
     {
       "name": "lige",
@@ -3025,6 +3025,14 @@
     {
       "name": "dujiaoshou",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/dujiaoshou.png"
+    },
+    {
+      "name": "duolaAmeng(1)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/duolaAmeng(1).png"
+    },
+    {
+      "name": "duolaAmeng",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/duolaAmeng.png"
     },
     {
       "name": "Edge-X",
