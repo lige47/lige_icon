@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261107",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261109",
   "icons": [
     {
       "name": "lige",
@@ -3423,6 +3423,14 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/mixuebingcheng.png"
     },
     {
+      "name": "mnkcloud(1)",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/mnkcloud(1).png"
+    },
+    {
+      "name": "mnkcloud",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/mnkcloud.png"
+    },
+    {
       "name": "mojie(1)",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/mojie(1).png"
     },
@@ -3513,6 +3521,10 @@
     {
       "name": "niva",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/niva.png"
+    },
+    {
+      "name": "NovoNET",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/NovoNET.png"
     },
     {
       "name": "now(1)",
