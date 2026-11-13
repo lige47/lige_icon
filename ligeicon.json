@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261111",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261113",
   "icons": [
     {
       "name": "lige",
@@ -1997,6 +1997,10 @@
     {
       "name": "N26",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/N26.png"
+    },
+    {
+      "name": "nagram",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/nagram.png"
     },
     {
       "name": "netflix(old)",
