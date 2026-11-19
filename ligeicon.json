@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261115",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261119",
   "icons": [
     {
       "name": "lige",
@@ -1995,6 +1995,10 @@
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/mexc.png"
     },
     {
+      "name": "Monta",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/Monta.png"
+    },
+    {
       "name": "msx",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/msx.png"
     },
@@ -2113,6 +2117,10 @@
     {
       "name": "Polymarket",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/Polymarket.png"
+    },
+    {
+      "name": "PPFlight",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/04ProxySoft\/PPFlight.png"
     },
     {
       "name": "PrimeVideo",
