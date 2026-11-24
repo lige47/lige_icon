@@ -170,3 +170,10 @@ DOMAIN-KEYWORD,aistudio
 #muse
 DOMAIN-SUFFIX,muse.ai
 DOMAIN-KEYWORD,muse-ai
+
+#antigravity
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity.google.com
