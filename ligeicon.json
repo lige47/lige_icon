@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261126",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261127",
   "icons": [
     {
       "name": "lige",
@@ -3653,6 +3653,10 @@
     {
       "name": "qianlink",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/qianlink.png"
+    },
+    {
+      "name": "qihaoxingqiu",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/qihaoxingqiu.png"
     },
     {
       "name": "qingfengyun",
