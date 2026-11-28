@@ -1,6 +1,6 @@
 {
   "name": "离歌图标包",
-  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261127",
+  "description": "图标更新请关注TG频道：@ligeicon ，您当前版本日期为261128",
   "icons": [
     {
       "name": "lige",
@@ -3953,6 +3953,10 @@
     {
       "name": "v2paw",
       "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/v2paw.png"
+    },
+    {
+      "name": "valtrogen",
+      "url": "https:\/\/raw.githubusercontent.com\/lige47\/QuanX-icon-rule\/main\/icon\/06jichang\/valtrogen.png"
     },
     {
       "name": "Vikinglinks(1)",
